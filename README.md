@@ -7,8 +7,6 @@ Shannongram revolution.
 
 - It comes installed with a few extensions and themes. My favourite themes are Rosé Pine, XCode Default (in screenshots below), and Poimandres.
 
-<br/>
-<br/>
 ![Alt Text](https://github.com/dieterwhitt/vscode-settings-2024/blob/main/instructions.png?raw=true)
 ## preview
 ![Alt Text](https://github.com/dieterwhitt/vscode-settings-2024/blob/main/sample.png?raw=true)
