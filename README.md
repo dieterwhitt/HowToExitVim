@@ -1,4 +1,4 @@
-# vscode-settings-2024
+# How To Exit Vim
 Shannongram revolution.
 ## instructions
 Clone this repository and import the file dieter_whittingham_apr2024.code-profile into your vscode profile settings.
