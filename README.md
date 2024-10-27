@@ -1,7 +1,7 @@
 # How To Exit Vim
 Shannongram revolution.
 ## instructions
-- Firstly, contact Dieter Whittingham and thank him for not gatekeeping.
+- Contact Dieter and thank him for not gatekeeping.
 
 - Clone this repository and import the file dieter_whittingham_apr2024.code-profile into your vscode profile settings.
 
