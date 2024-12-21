@@ -1,11 +1,7 @@
 # How To Exit Vim
 Shannongram revolution.
 ## instructions
-- Contact Dieter and thank him for not gatekeeping.
-
-- Clone this repository and import the file dieter_whittingham_apr2024.code-profile into your vscode profile settings.
-
-- It comes installed with a few extensions and themes. My favourite themes are Rosé Pine, XCode Default (in screenshots below), and Poimandres.
+- uhhhhhhh 
 
 ![Alt Text](https://github.com/dieterwhitt/vscode-settings-2024/blob/main/instructions.png?raw=true)
 ## preview
